@@ -1,0 +1,28 @@
+name: David Shulman
+favicon: null
+layout_spectrum: 0.8790068938396871
+typography_spectrum: 0.5780667413491756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7351113052573055
+  lightness: 0.14585514506325126
+  saturation: 0.7606599605642259
+  rhythmicContrast: 0.5710751146543771
+purpose: []
